@@ -1,4 +1,5 @@
 GEM
+  remote: http://ruby.taobao.org/
   specs:
     ffi (1.9.3)
 
